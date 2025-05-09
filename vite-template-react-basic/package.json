@@ -1,0 +1,16 @@
+{
+    "name": "vite-template-react-basic",
+    "version": "1.0.0",
+    "description": "A basic React Vite template",
+    "main": "template.json",
+    "license": "MIT",
+    "files": [
+        "template",
+        "template.json"
+    ],
+    "keywords": [
+        "vite",
+        "react",
+        "template"
+    ]
+}
