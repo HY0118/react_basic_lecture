@@ -56,17 +56,22 @@
 
 ## 🚀 **설치 및 시작하기**
 
-### **1. 템플릿 설치**  
-npx my-react-template
-
+### **1. 템플릿 설치**
+```bash
+npx create-vite my-app -- --template vite-template-react-basic
+```
 ### **2. 패키지 설치**  
+```bash
 npm install
-
+```
 ### **3. 개발 서버 실행**  
+```bash
 npm run dev
-
+```
 ### **4. 빌드**  
+```bash
 npm run build
+```
 
 
 ## 🗂️ **주요 내용**
