@@ -1,6 +1,4 @@
 {
     "name": "vite-template-react-basic",
-    "version": "1.0.1",
-    "description": "A basic React Vite template",
-    "private": true
+    "templateDir": "template"
 }
