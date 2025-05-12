@@ -1,6 +1,6 @@
 {
     "name": "@coduck/vite-template-react-basic",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "private": false,
     "description": "A basic React Vite template",
     "license": "MIT",
@@ -8,7 +8,7 @@
         "access": "public"
     },
     "files": [
-        "template/",
+        "template",
         "template.json",
         "README.md"
     ],
